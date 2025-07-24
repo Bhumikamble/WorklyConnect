@@ -27,7 +27,7 @@ VIEW WHO HAVE APPLIED FOR THE JOB ROLE
 
 <img width="1920" height="818" alt="w7" src="https://github.com/user-attachments/assets/599fd873-c3c1-4867-87e6-62d01a7058fb" />
 
-# WORKLYCONNECT Job Portal Weobsite
+# WORKLYCONNECT Job Portal Website
 
 A comprehensive job portal application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to browse job listings, apply for jobs, and manage their applications seamlessly.
 
